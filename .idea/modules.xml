@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abnormalrestart/abnormalrestart.iml" filepath="$PROJECT_DIR$/abnormalrestart/abnormalrestart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app3/app3.iml" filepath="$PROJECT_DIR$/app3/app3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitmapmesh/bitmapmesh.iml" filepath="$PROJECT_DIR$/bitmapmesh/bitmapmesh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test2.iml" filepath="$PROJECT_DIR$/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng_share/umeng_share.iml" filepath="$PROJECT_DIR$/umeng_share/umeng_share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umengsocialcustomshareuimaster/umengsocialcustomshareuimaster.iml" filepath="$PROJECT_DIR$/umengsocialcustomshareuimaster/umengsocialcustomshareuimaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/welActivity/welActivity.iml" filepath="$PROJECT_DIR$/welActivity/welActivity.iml" />
+    </modules>
+  </component>
+</project>
+

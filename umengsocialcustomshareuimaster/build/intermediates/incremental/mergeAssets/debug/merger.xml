@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\workspace_as\test2\umengsocialcustomshareuimaster\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\workspace_as\test2\umengsocialcustomshareuimaster\src\debug\assets" />
+    </dataSet>
+
+</merger>

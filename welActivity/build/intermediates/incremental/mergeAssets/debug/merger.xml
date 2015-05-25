@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\workspace_as\test2\welActivity\src\main\assets" >
+            <file
+                name="socialize_data/good_luck.jpg"
+                path="D:\workspace_as\test2\welActivity\src\main\assets\socialize_data\good_luck.jpg" />
+            <file
+                name="socialize_data/HERO.jpg"
+                path="D:\workspace_as\test2\welActivity\src\main\assets\socialize_data\HERO.jpg" />
+            <file
+                name="socialize_data/jsonData.txt"
+                path="D:\workspace_as\test2\welActivity\src\main\assets\socialize_data\jsonData.txt" />
+            <file
+                name="socialize_data/lasj.jpg"
+                path="D:\workspace_as\test2\welActivity\src\main\assets\socialize_data\lasj.jpg" />
+            <file
+                name="socialize_data/meilirensheng.jpg"
+                path="D:\workspace_as\test2\welActivity\src\main\assets\socialize_data\meilirensheng.jpg" />
+            <file
+                name="socialize_data2/banner_analytic.png"
+                path="D:\workspace_as\test2\welActivity\src\main\assets\socialize_data2\banner_analytic.png" />
+            <file
+                name="socialize_data2/banner_component_feedback.png"
+                path="D:\workspace_as\test2\welActivity\src\main\assets\socialize_data2\banner_component_feedback.png" />
+            <file
+                name="socialize_data2/banner_component_social.png"
+                path="D:\workspace_as\test2\welActivity\src\main\assets\socialize_data2\banner_component_social.png" />
+            <file
+                name="socialize_data2/banner_component_update.png"
+                path="D:\workspace_as\test2\welActivity\src\main\assets\socialize_data2\banner_component_update.png" />
+            <file
+                name="socialize_data2/banner_exchange.png"
+                path="D:\workspace_as\test2\welActivity\src\main\assets\socialize_data2\banner_exchange.png" />
+            <file
+                name="socialize_data2/jsonData.txt"
+                path="D:\workspace_as\test2\welActivity\src\main\assets\socialize_data2\jsonData.txt" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\workspace_as\test2\welActivity\src\debug\assets" />
+    </dataSet>
+
+</merger>

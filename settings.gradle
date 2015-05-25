@@ -1,0 +1,5 @@
+include ':app', ':app2', ':umeng_share', ':app3', 'MaterialViewPage', ':materialviewpager', ':android-volley-master', ':PullScrollView', ':github', ':github_integration-tests'
+include ':welActivity'
+include ':umengsocialcustomshareuimaster'
+include ':abnormalrestart'
+include ':bitmapmesh'

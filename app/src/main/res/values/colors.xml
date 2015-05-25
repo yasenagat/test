@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- new color -->
+    <color name="common_bg">#FFFFFF</color>
+    <color name="red_bg">#f4522c</color>
+    <color name="pink_red_bg">#fff6f5</color>
+    <color name="light_red">#faa996</color>
+    <color name="light_blue">#80bfeb</color>
+    <color name="header_line">#c82904</color>
+    <color name="green_bg">#edf8f4</color>
+    <color name="gray_bg">#f2f2f2</color>
+    <color name="gray_bg_2">#f4f4f4</color>
+    <color name="invest_gb_gray">#f0f0f0</color>
+    <color name="invest_line_gray">#dedfdf</color>
+    <color name="invest_lty_name">#6d6d6d</color>
+    <color name="invest_lty_desc">#898787</color>
+    <color name="invest_lty_issue">#aeaeae</color>
+    <color name="ball_red">#f4522c</color>
+    <color name="ball_blue">#009cff</color>
+    <color name="tab_text_p">#848484</color>
+    <color name="tab_text_n">#848484</color>
+    <color name="line_solid">#ced1d0</color>
+    <color name="line_dash">#dedfdf</color>
+    <!--    <color name="text_gray">#8A8989</color>-->
+    <color name="text_gray">#7d736a</color>
+    <color name="text_red">#f4522c</color>
+    <color name="text_gray_1">#4b4b4b</color>
+    <color name="text_gray_2">#828282</color>
+    <color name="text_gray_3">#5b6266</color>
+    <color name="text_gray_4">#cccccc</color>
+    <color name="text_gray_5">#EFEFEF</color>
+
+    <color name="dark_gray">#716f6f</color>
+    <color name="orange_2">#fffaf2</color>
+    <color name="orange_3">#fde2d6</color>
+    <color name="orange_4">#fa6200</color>
+
+    <!-- <color name="chart_left_top_header_text">#000000</color>-->
+    <color name="chart_left_top_header_text">#7d736a</color>
+    <!-- <color name="chart_top_header_text">#000000</color>
+     <color name="chart_left_header_text">#000000</color>-->
+    <color name="chart_top_header_text">#7a7977</color>
+    <color name="chart_left_header_text">#7a7977</color>
+    <color name="chart_header_line">#bcbbbb</color>
+    <color name="chart_top_header_bg">#e4e2d6</color>
+    <!-- <color name="chart_top_header_bg">#e7e1e0</color>-->
+    <!-- <color name="chart_left_header_row_1">#FFFFFF</color>-->
+    <!-- <color name="chart_left_header_row_2">#e7e1e0</color>-->
+    <color name="chart_left_header_row_1">#eae9e5</color>
+    <color name="chart_left_header_row_2">#e5e1d6</color>
+    <!--    <color name="chart_body_row_1">#FFFFFF</color>
+        <color name="chart_body_row_2">#F7F7F7</color>-->
+    <color name="chart_body_row_1">#fcfcfc</color>
+    <color name="chart_body_row_2">#f3f3e9</color>
+    <color name="chart_big_small_bg">#50d0ee</color>
+    <color name="chart_ji_o_bg">#f7786b</color>
+    <color name="chart_span_bg">#aad76c</color>
+    <color name="chart_repeat_bg">#f2bd45</color>
+    <color name="chart_big_small_text">#f4522c</color>
+    <color name="chart_ji_o_text">#00a6e4</color>
+    <color name="chart_zhi_he_text">#41c400</color>
+    <color name="chart_lu_text">#ffae00</color>
+
+
+    <!-- custom -->
+
+    <color name="default_text_color">#3F3433</color>
+    <color name="default_text_color_hint">#808080</color>
+    <color name="default_background_color_gray">#808080</color>
+    <color name="red">#f4522c</color>
+    <color name="red_1">#e15814</color>
+    <color name="gray_1">#ede0d7</color>
+    <color name="orange">#ffed9142</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green">#67c503</color>
+    <color name="dark_green">#999900</color>
+    <color name="blue">#ff3b86d1</color>
+    <color name="paddingline">#ffd6d6d6</color>
+    <color name="transparent">#00000000</color>
+    <color name="account_black">#313131</color>
+    <color name="tab_text_on_color">#3E3E3E</color>
+    <color name="default_back_btn_color">#FFFFFF</color>
+    <color name="orange_color_line">#ffedd6b2</color>
+
+    <color name="yellow_1">#fff600</color>
+    <color name="yellow_2">#fec874</color>
+    <color name="blue_1">#00ca9d</color>
+
+    <color name="red_line">#c57070</color>
+    <color name="gray_line">#555555</color>
+    <color name="blue_line">#5fbcc4</color>
+    <color name="yellow_line">#ffb747</color>
+
+    <!-- tab -->
+    <color name="orange_text_color">#ffed9142</color>
+    <color name="gray_text_color">#ffa8a8a8</color>
+
+    <!-- chart_n   last -->
+    <color name="blue_last_text_color">#5e9100</color>
+    <color name="red_last_text_color">#8e00da</color>
+    <color name="green_last_text_color">#da3b00</color>
+    <color name="yellow_last_text_color">#00a6e4</color>
+
+
+    <color name="view_color_line">#dddddd</color>
+    <color name="text_color_centent">#fafafa</color>
+
+    <color name="circle_color_one">#ef715f</color>
+    <color name="circle_color_two">#eaa60d</color>
+    <color name="circle_color_three">#68c85b</color>
+</resources>
